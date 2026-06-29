@@ -21,10 +21,6 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huisu73&show_icons=true&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huisu73&theme=radical&hide_border=true)
-
 ### 📫 Contact
 - 📧 Email: hhisu102@gmail.com
 - 🔗 LinkedIn: [본인이름](본인링크드인주소)
