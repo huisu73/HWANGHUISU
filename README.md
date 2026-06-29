@@ -1,12 +1,11 @@
-# HWANGHUISU
-<h1 align="center">Hi there 👋</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I%20turn%20%F0%9F%8E%A8%20into%20%E2%9F%A8code%2F%E2%9F%A9&fontSize=55)
 
 ## 🚀 About Me
 - 🌱 웹 풀스택 및 프론트엔드 개발을 공부하고 있는 **주니어 개발자**입니다.
 - 🛠️ React, Vue.js, Spring Boot를 주로 활용합니다.
 - 🤝 팀원들과 소통하며 문제를 해결해 나가는 과정을 좋아합니다.
 - 📚 매일 배운 것을 블로그에 기록하며 성장하고 있습니다.
-- 💌 새로운 기회와 협업 제안은 언제나 환영합니다!
+- 💌 새로운 기회는 언제나 환영합니다!
 
 ### 🔗 Link
 [![Blog](https://img.shields.io/badge/Blog-블로그방문-3DDC84?style=for-the-badge&logo=github&logoColor=white)](https://velog.io/@hoa_/posts)
